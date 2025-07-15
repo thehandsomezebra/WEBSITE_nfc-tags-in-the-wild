@@ -32,7 +32,6 @@ There's lots of fancy ways to do it, but `NFC Tools` is my favorite to program t
 - [CodeMash 2024](https://codemash.org/)
 - [DefCon 2024](https://defcon.org/)
 - [GrrCon 2024](https://grrcon.com/)
-- [DefCon 2025](https://defcon.org/)
 - ???
 
 ### How did I make this?
