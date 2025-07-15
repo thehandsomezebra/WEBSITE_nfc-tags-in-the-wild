@@ -36,7 +36,7 @@ There's lots of fancy ways to do it, but `NFC Tools` is my favorite to program t
 
 ### How did I make this?
 
-Model was created by GeekToyBox and you can find it [here](https://www.printables.com/model/505531-25mm1-nfc-ntag215-coin-keychain).  I used whatever NFC tags that I had at the time of printing (stickers, coins, whatever..depends on the day).  The model's creator linked some nfc tags that also work, so I'd recommend those.  To emboss my logo, I just used the feature in the PrusaSlicer to add part > SVG.  Lastly, I printed these with my Prusa MK4.
+Model was created by GeekToyBox and you can find it [here](https://www.printables.com/model/505531-25mm1-nfc-ntag215-coin-keychain).  I used whatever NFC tags that I had at the time of printing (stickers, coins, whatever..depends on the day).  The model's creator linked some nfc tags that also work, so I'd recommend those.  To emboss the logo, I just used the feature in the PrusaSlicer to add part > SVG.  Lastly, I printed these with my Prusa MK4.
 
 
 ### If you want, follow me on the socials...
@@ -46,9 +46,9 @@ Model was created by GeekToyBox and you can find it [here](https://www.printable
 - [Mastodon](https://defcon.social/@handsomezebra)
 - [My Digital Gardens](https://garden.handsomezebra.com/)
 - [LinkedIn](https://www.linkedin.com/in/stephanielage/)
-- [CashApp](https://cash.app/$handsomezebra)
+<!-- - [CashApp](https://cash.app/$handsomezebra)
 - [Venmo](https://venmo.com/u/handsomezebra)
-- [Ko-Fi](https://ko-fi.com/handsomezebra)
+- [Ko-Fi](https://ko-fi.com/handsomezebra) -->
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RQR0G235HD"></script>
