@@ -44,7 +44,7 @@ Model was created by GeekToyBox and you can find it [here](https://www.printable
 - [Me](https://www.stephaniefrantz.com/)
 - [GitHub](https://github.com/thehandsomezebra)
 - [Mastodon](https://defcon.social/@handsomezebra)
-- [My Digital Gardens]([https://readthis.info/](https://garden.handsomezebra.com/))
+- [My Digital Gardens](https://garden.handsomezebra.com/)
 - [LinkedIn](https://www.linkedin.com/in/stephanielage/)
 - [CashApp](https://cash.app/$handsomezebra)
 - [Venmo](https://venmo.com/u/handsomezebra)
